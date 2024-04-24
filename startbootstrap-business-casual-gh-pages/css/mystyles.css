@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r8NA8wInCkYC8-E_1CIv5_gRI-FNz5lY2HPALRWlrg&s");
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.centered-text {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    margin-top: 15vh;
+    /* transform: translateY(-50%); */
+}
+.text-container{
+    background-color: rgba(173, 216, 230, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    
+
+}
+.boldfaced {
+    font-weight: bold;
+}
+.navbar {
+    display: flex;
+justify-content: center;}
+.nav-item{
+    flex-grow: 100%;
+    color: white;
+    font-weight: bolder;
+    margin: 25px;
+}
